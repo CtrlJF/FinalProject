@@ -33,7 +33,7 @@
     }, 40); // Add a slight delay before transitioning to ensure the overlay is displayed
     
 }
-
+ */
 function mainForm() {
-    window.location.href = 'userDashboard.html'
-} */
+    window.location.href = 'main_form.html'
+}
